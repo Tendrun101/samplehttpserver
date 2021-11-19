@@ -1,1 +1,1 @@
-FROM gcr.io/google-samples/hello-app:1.0
+FROM staging-k8s.gcr.io/kubemark:1.18
