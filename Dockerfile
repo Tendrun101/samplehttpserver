@@ -1,1 +1,1 @@
-FROM staging-k8s.gcr.io/kubemark:latest
+FROM k8s.gcr.io/kubemark:latest
