@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.5
+FROM k8s.gcr.io/build-image/kube-cross:v1.15.15-legacy-1
