@@ -1,1 +1,1 @@
-FROM us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-admission-controller:0.8.1
+FROM us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-recommender::0.8.1
