@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/build-image/kube-cross:v1.15.15-legacy-1
+FROM --platform=linux/amd64 k8s.gcr.io/build-image/debian-iptables:buster-v1.6.5
