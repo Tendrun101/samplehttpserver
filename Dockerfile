@@ -1,1 +1,1 @@
-FROM us.gcr.io/k8s-artifacts-prod/autoscaling/vpa-updater:0.8.1
+FROM k8s.gcr.io/metrics-server/metrics-server:v0.5.2
