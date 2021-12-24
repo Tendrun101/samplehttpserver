@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64 gcr.io/kubernetes-e2e-test-images/agnhost:2.21
+FROM  gcr.io/kubernetes-e2e-test-images/agnhost:2.21
