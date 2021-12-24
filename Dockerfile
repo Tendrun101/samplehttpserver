@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/build-image/kube-cross:v1.15.15-legacy-1
+FROM --platform=linux/arm64 gcr.io/kubernetes-e2e-test-images/agnhost:2.21
