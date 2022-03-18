@@ -1,1 +1,1 @@
-FROM --platform=linux/arm64 k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.10
+FROM k8s.gcr.io/debian-base-amd64:v2.0.0
