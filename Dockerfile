@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark:v3.1.1
+FROM --platform=linux/arm64 registry.k8s.io/build-image/debian-base:bullseye-v1.4.3
